@@ -1,0 +1,22 @@
+{
+  "name": "FSLocalizations",
+  "version": "0.1.0",
+  "summary": "A short description of FSLocalizations.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanqijian/FSLocalizations",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanqijian": "wanqijian@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/wanqijian/FSLocalizations.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FSLocalizations/Classes/**/*"
+}
